@@ -1,0 +1,91 @@
+ *{
+   
+box-sizing:borderbox;
+padding:20px; 
+} 
+/* This is target All of yout HTML code*/
+
+body{
+    background-color:whitesmoke;
+    /* background-image:url("background.jpeg"); */
+}
+
+h1 { 
+    color: coral;
+    font: size 38px;
+}
+
+/* This is how to target an element within our HTML*/
+
+/* .welcome{
+    background-color: 
+} */
+/* THis is how to target a class*/
+
+/* 
+.large {
+    font-size: 30px
+}
+
+.blue {
+    background-color: darkslategrey
+}
+#image1{
+    width: 30;
+
+}
+p{
+    color:
+}
+body{
+    background-color: ;
+} */
+
+p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    /* background-color:
+    font-style:darkslategrey; */
+    /* font-weight: */
+    text-align: center;
+
+
+
+}
+#navbar{
+    background-color: rgb(34, 139, 113);
+    height: 30px;
+    display:flex;
+     justify-content: center; 
+    /* justify-content: space space-evenly */
+    align-items:center;
+}
+
+#navbar a{
+    color: whitesmoke;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#navbar a:hover{
+    color:rgb(50, 73, 205);
+
+}
+
+img{
+    width: 300px;
+
+}
+
+
+#navbar{
+    justify-content:center;
+    align-items:center;
+
+}
+
+.dccomics{
+    display:flex;
+    justify-content: center;
+    
+}
+
